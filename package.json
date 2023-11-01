@@ -1,7 +1,8 @@
 {
-  "name": "typescript-homework-module-4",
+  "name": "goit-typescript-hw-04",
   "version": "0.1.0",
   "private": true,
+  "author": "SSerg",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
